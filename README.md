@@ -16,7 +16,7 @@
 
 ##  Project Overview
 
-**Stock Sense** is an end-to-end deep learning system that predicts the <u><strong>next trading day's closing price of Apple Inc. (AAPL) stock.</strong></u> The system combines historical stock price data with sentiment signals extracted from financial news headlines using Natural Language Processing (NLP).
+**Stock Sense** is an end-to-end deep learning system that predicts the The goal of this project is to predict the **next trading day's closing price of Apple Inc. (AAPL)** .The system combines historical stock price data with sentiment signals extracted from financial news headlines using Natural Language Processing (NLP).
 
 Unlike traditional machine learning models that treat each day independently, Stock Sense uses a **Long Short-Term Memory (LSTM)** neural network — designed specifically for time-series data — to learn patterns across a 60-day sliding window.
 
