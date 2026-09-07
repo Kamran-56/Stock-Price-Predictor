@@ -1,5 +1,6 @@
-Stock Sense
+Stock Sense-
 Stock Market Prediction using LSTM & News Sentiment Analysis
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red)
