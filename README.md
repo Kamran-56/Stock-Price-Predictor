@@ -16,7 +16,7 @@
 
 ##  Project Overview
 
-**Stock Sense** is an end-to-end deep learning system that predicts the The goal of this project is to predict the **next trading day's closing price of Apple Inc. (AAPL)** .The system combines historical stock price data with sentiment signals extracted from financial news headlines using Natural Language Processing (NLP).
+**Stock Sense** - is an end-to-end deep learning system that predicts the The goal of this project is to predict the **next trading day's closing price of Apple Inc. (AAPL)** .The system combines historical stock price data with sentiment signals extracted from financial news headlines using Natural Language Processing (NLP).
 
 Unlike traditional machine learning models that treat each day independently, Stock Sense uses a **Long Short-Term Memory (LSTM)** neural network — designed specifically for time-series data — to learn patterns across a 60-day sliding window.
 
@@ -141,8 +141,8 @@ Predicted Close Price (scaled 0-1 → inverse transformed to USD)
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/Kamran-56/Stock-Price-Prediction.git
-cd Stock-Price-Predicton
+git clone https://github.com/Kamran-56/Stock-Sense.git
+cd Stock-Sense
 ```
 
 ### Step 2 — Install Dependencies
@@ -201,7 +201,7 @@ http://localhost:8501
 ## 📁 Project Structure
 
 ```text
-Stock-Price-Predicton/
+Stock-Sense/
 │
 ├── README.md
 ├── requirements.txt
